@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fad OURO AGORO</h1>
-<h3 align="center">A passionate web and ML develpement from Togo</h3>
+<h3 align="center">A passionate web and ML development from Togo</h3>
 <h3 align="center">I like working with data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadoul1&label=Profile%20views&color=0e75b6&style=flat" alt="fadoul1" /> </p>
